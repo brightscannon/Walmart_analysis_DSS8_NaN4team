@@ -1,11 +1,8 @@
 # FastCampus DSS8 NaN4_Team's Analysis repository
-
-# Walmart_analysis_DSS8_NaN4team
+### Walmart_analysis_DSS8_NaN4team
 Analyze Walmart items in stormy weather 
 
 # note for members.
-
----
 2018-06-28-------------------------------------------------------------
 ## 첫 push전 필독!!
 0. 기존에 사용중이신 작업디렉토리와 겹치지 않도록
